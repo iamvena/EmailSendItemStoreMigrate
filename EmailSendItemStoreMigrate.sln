@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailSendItemStoreMigrate", "EmailSendItemStoreMigrate\EmailSendItemStoreMigrate.csproj", "{D8E13CC6-D6B6-4611-B3A7-A7F3AD29D03B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8E13CC6-D6B6-4611-B3A7-A7F3AD29D03B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8E13CC6-D6B6-4611-B3A7-A7F3AD29D03B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8E13CC6-D6B6-4611-B3A7-A7F3AD29D03B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8E13CC6-D6B6-4611-B3A7-A7F3AD29D03B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6AA05E9-957E-4735-B32D-6C25C04845F4}
+	EndGlobalSection
+EndGlobal
